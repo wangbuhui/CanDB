@@ -1,0 +1,127 @@
+{
+    "listCan": [
+        {
+            "CanPort": 1, 
+            "listEcu": [
+                {
+                    "Name": "ecu", 
+                    "listMessage": [
+                        {
+                            "Name": "baowen", 
+                            "FrameType": 0, 
+                            "ID": 2, 
+                            "DLC": 8, 
+                            "listSignal": [
+                                {
+                                    "Name": "x000_W", 
+                                    "BitStart": 1, 
+                                    "BitLength": 1, 
+                                    "ByteOrder": 0, 
+                                    "DataType": 0, 
+                                    "Factor": 1, 
+                                    "Offset": 2, 
+                                    "MinValue": 3, 
+                                    "MaxValue": 4, 
+                                    "Default": 5, 
+                                    "Unit": "km"
+                                }, 
+                                {
+                                    "Name": "x001_W", 
+                                    "BitStart": 1, 
+                                    "BitLength": 1, 
+                                    "ByteOrder": 0, 
+                                    "DataType": 1, 
+                                    "Factor": 1, 
+                                    "Offset": 2, 
+                                    "MinValue": 3, 
+                                    "MaxValue": 4, 
+                                    "Default": 5, 
+                                    "Unit": "km"
+                                }, 
+                                {
+                                    "Name": "x002_W", 
+                                    "BitStart": 1, 
+                                    "BitLength": 1, 
+                                    "ByteOrder": 0, 
+                                    "DataType": 2, 
+                                    "Factor": 1, 
+                                    "Offset": 2, 
+                                    "MinValue": 3, 
+                                    "MaxValue": 4, 
+                                    "Default": 5, 
+                                    "Unit": "km"
+                                }, 
+                                {
+                                    "Name": "x003_W", 
+                                    "BitStart": 1, 
+                                    "BitLength": 1, 
+                                    "ByteOrder": 0, 
+                                    "DataType": 3, 
+                                    "Factor": 1, 
+                                    "Offset": 2, 
+                                    "MinValue": 3, 
+                                    "MaxValue": 4, 
+                                    "Default": 5, 
+                                    "Unit": "km"
+                                }, 
+                                {
+                                    "Name": "x010_W", 
+                                    "BitStart": 1, 
+                                    "BitLength": 1, 
+                                    "ByteOrder": 1, 
+                                    "DataType": 0, 
+                                    "Factor": 1, 
+                                    "Offset": 2, 
+                                    "MinValue": 3, 
+                                    "MaxValue": 4, 
+                                    "Default": 5, 
+                                    "Unit": "km"
+                                }, 
+                                {
+                                    "Name": "x011_W", 
+                                    "BitStart": 1, 
+                                    "BitLength": 1, 
+                                    "ByteOrder": 1, 
+                                    "DataType": 1, 
+                                    "Factor": 1, 
+                                    "Offset": 2, 
+                                    "MinValue": 3, 
+                                    "MaxValue": 4, 
+                                    "Default": 5, 
+                                    "Unit": "km"
+                                }, 
+                                {
+                                    "Name": "x012_W", 
+                                    "BitStart": 1, 
+                                    "BitLength": 1, 
+                                    "ByteOrder": 1, 
+                                    "DataType": 2, 
+                                    "Factor": 1, 
+                                    "Offset": 2, 
+                                    "MinValue": 3, 
+                                    "MaxValue": 4, 
+                                    "Default": 5, 
+                                    "Unit": "km"
+                                }, 
+                                {
+                                    "Name": "x013_W", 
+                                    "BitStart": 1, 
+                                    "BitLength": 1, 
+                                    "ByteOrder": 1, 
+                                    "DataType": 3, 
+                                    "Factor": 1, 
+                                    "Offset": 2, 
+                                    "MinValue": 3, 
+                                    "MaxValue": 4, 
+                                    "Default": 5, 
+                                    "Unit": "km"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ], 
+            "BaudrateIndex": 4
+        }
+    ]
+}
